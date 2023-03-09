@@ -1,4 +1,8 @@
 
+![](/assets/Diagrams.jpg)
+
+---
+
 ## Fullstack Музыкальная платформа / Fullstack Music Platform
 
 ---
@@ -21,4 +25,3 @@
 
 ## Пожалуйста, оставьте звездочку / star, если зашли в гости, мне будет приятно ) ★
 
-![](/assets/Diagrams.jpg)
