@@ -7,7 +7,8 @@
 
 * React ( Server side rendering ) 
 * Next js
-* Typescript (  Серверная часть )
+* Typescript 
+* Nest js ( Серверная часть )
 
 ![](/assets/Diagrams.jpg)
 
