@@ -3,7 +3,7 @@
 
 ---
 
-###Инструменты/Tools
+### Инструменты/Tools
 
 * React ( Server side rendering ) 
 * Next js
@@ -11,9 +11,9 @@
 
 ---
 
-###Инструкция по запуску:
+### Инструкция по запуску:
 
-* npm run start:dev - запуск сервера
+1. npm run start:dev - запуск сервера
 
-* npm run dev - запуск клиента
+2. npm run dev - запуск клиента
 
