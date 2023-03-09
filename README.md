@@ -1,5 +1,5 @@
 
-## Fullstack Музыкальная платформа/Fullstack Music Platform
+## Fullstack Музыкальная платформа / Fullstack Music Platform
 
 ---
 
