@@ -2,7 +2,6 @@
 ## Fullstack Музыкальная платформа / Fullstack Music Platform
 
 ![](/assets/Diagrams.jpg)
-
 ---
 
 ### Инструменты / Tools
