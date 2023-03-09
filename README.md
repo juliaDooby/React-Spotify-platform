@@ -3,7 +3,7 @@
 
 ---
 
-### Инструменты/Tools
+### Инструменты / Tools
 
 * React ( Server side rendering ) 
 * Next js
