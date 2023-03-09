@@ -1,7 +1,6 @@
 
 ## Fullstack Музыкальная платформа / Fullstack Music Platform
 
-![](/assets/Diagrams.jpg)
 ---
 
 ### Инструменты / Tools
@@ -9,6 +8,8 @@
 * React ( Server side rendering ) 
 * Next js
 * Typescript (  Серверная часть )
+
+![](/assets/Diagrams.jpg)
 
 ---
 
