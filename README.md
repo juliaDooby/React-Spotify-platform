@@ -21,7 +21,7 @@
 
 ### Инструкция по запуску:
 
-npm run dev / yarn dev
+* `npm run dev` / `yarn dev`
 
 ---
 
