@@ -58,7 +58,8 @@
 
 ### Инструкция по запуску:
 
-* `npm run dev` / `yarn dev`
+* npm run start:dev - запуск сервера
+* npm run dev - запуск клиента
 
 ---
 
