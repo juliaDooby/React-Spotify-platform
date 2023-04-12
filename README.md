@@ -1,5 +1,5 @@
 
-## Музыкальная платформа Spotify / Music-platform Spotify
+## Музыкальная платформа Spotify / Music-platform Spotify *
 
 ---
 
