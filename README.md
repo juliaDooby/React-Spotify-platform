@@ -5,9 +5,8 @@
 
 ### Стек / Stack: 
 
-* HTML / JSX 
-* SCSS
 * React
+* SCSS
 * Typescript
 * NEST.JS
 * NEXT.JS
