@@ -2,12 +2,12 @@
 
 ## React-Spotify-Music-platform
 
-<div align="center"><img src="" width="100%" height="100%"></img></div>
-<div align="center"><img src="" width="100%" height="100%"></img></div>
-<div align="center"><img src="" width="100%" height="100%"></img></div>
-<div align="center"><img src="" width="100%" height="100%"></img></div>
-<div align="center"><img src="" width="100%" height="100%"></img></div>
-<div align="center"><img src="" width="100%" height="100%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
 
  ---
  
