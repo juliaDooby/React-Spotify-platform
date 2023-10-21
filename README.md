@@ -4,7 +4,7 @@
 
 <div align="center"><img src="" width="100%" height="20%"></img></div>
 <div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" height="20%"></img></div>
+<div align="center"><img src="" width="100%" height="20%"></img></div>
 <div align="center"><img src="" width="100%" height="20%"></img></div>
 <div align="center"><img src="" width="100%" height="20%"></img></div>
 
@@ -16,20 +16,57 @@
 
 ##### Here's features included in this project
 
-- Mastered Next.js 13.4 with Server Side Rendering
-- Learned MongoDB handling of complex schemas, multiple data population
-- Created beautiful layouts with TailwindCSS
-- Used Clerk for authentication
-- Handled file uploads with UploadThing
-- Explored Shadcn components
-- Listened to real-time events with webhooks
-- Understood middleware, API actions, and authorization
-- Explored & integrated new Next.js layout route groups
-- Validated data with Zod
-- Managed forms with react hook form
-- Created reusable components
-- Built a solid application architecture
-- Deployed the application (timetable tech. problems)
+### [BACKEND]
+
+* Designing database diagrams.
+* Service, Module, Modulator
+* Connect to the database, describe the data schema
+* REST API, DTO
+* File upload, static distribution, FileService
+* CORS, completion of server development
+
+###[FRONTEND]
+
+* Creation of the NEXT project
+* Player location
+* Page with step-by-step track creation
+* File upload component
+* Player logic, Redux connection, next Redux wrapper
+* Typing PlayerReducer
+* Custom hooks useActions, useTypedSelector
+* Action creators
+* Working with the Audio object in the browser, playing a track
+* Custom hook using Input
+* Creating a track, requesting a server, sending files
+* SEO optimization, title, title, meta
+* Search for tracks, optimize search queries
+
+  <!-- ### Backend Итоги: -->
+
+ <!-- 
+ 1. Есть главный AppModule, в котором подключаются все остальные модули
+2. Модуль является изолированной средой, позволяет быстро ориентироваться и разрабатывать приложение 
+3. В каждом модуле есть свои сервисы, схемы, контроллеры
+4. В контроллерах идет работа с запросами, ответами, с клиент-серверной составляющей 
+5. В схемах описываются данные, с которыми идет взаимодействие 
+6. В DTO описываем объекты, которые ожидаем на вход в некоторых функциях в контроллерах
+7. По итогу это все подключается в Веб-Модуль, который позже был определен как основной при запуске приложения в файле main 
+8. Cors для отправки запросов с браузера -->
+
+---
+
+### Backend Summary:
+
+1. There is a main AppModule in which all other modules are connected
+2. The module is an isolated environment, allowing you to quickly navigate and develop the application
+3. Each module has its own services, circuits, controllers
+4. The controllers work with requests, responses, and the client-server component
+5. Diagrams describe the data with which interaction takes place.
+6. In the DTO we describe the objects that are expected as input in some functions in the controllers
+7. As a result, all this is connected to the Web Module, which was later defined as the main one when the application was launched in the main file
+8. Cors for sending requests from the browser  
+
+---
 
 ### Technologies Used:
 
