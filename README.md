@@ -2,12 +2,12 @@
 
 ## React-Spotify-Music-platform
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_4.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_5.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_6.JPG" width="100%" height="20%"></img></div>
 
  ---
  
