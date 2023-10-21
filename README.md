@@ -16,7 +16,7 @@
 
 ##### Here's features included in this project
 
-### [BACKEND]
+## [BACKEND]
 
 * Designing database diagrams.
 * Service, Module, Modulator
@@ -25,7 +25,7 @@
 * File upload, static distribution, FileService
 * CORS, completion of server development
 
-###[FRONTEND]
+## [FRONTEND]
 
 * Creation of the NEXT project
 * Player location
@@ -55,7 +55,7 @@
 
 ---
 
-### Backend Summary:
+## Backend Summary:
 
 1. There is a main AppModule in which all other modules are connected
 2. The module is an isolated environment, allowing you to quickly navigate and develop the application
