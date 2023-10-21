@@ -16,7 +16,7 @@
 
 ##### Here's features included in this project
 
-## BACKEND
+## BACKEND:
 
 * Designing database diagrams.
 * Service, Module, Modulator
@@ -25,7 +25,7 @@
 * File upload, static distribution, FileService
 * CORS, completion of server development
 
-## FRONTEND
+## FRONTEND:
 
 * Creation of the NEXT project
 * Player location
