@@ -8,24 +8,14 @@
 ![Cors](https://img.shields.io/badge/cors-%23008080.svg?style=for-the-badge&logo=cors&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+Rest-api
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Next Router](https://img.shields.io/badge/Next_Router-purple?style=for-the-badge&logo=next-router&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-1b80f3?style=for-the-badge&logo=clerk&logoColor=white)
-![Mongodb](https://img.shields.io/badge/Mongodb-0cc227?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-c20a1f?style=for-the-badge&logo=mongoose&logoColor=white)
-
 ![Use Actions](https://img.shields.io/badge/use%20actions-%232671E5.svg?style=for-the-badge&logo=useactions&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-
-Typescript
-Rest-api
-Scss
-Nest
 Seo-optimization
-Next
-Useactions
-Axios-react
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_2.JPG" width="100%" height="20%"></img></div>
