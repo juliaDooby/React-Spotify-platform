@@ -4,6 +4,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook](https://img.shields.io/badge/React%20Hook%20-%23EC5990.svg?style=for-the-badge&logo=reacthook&logoColor=white)
 ![Hooks](https://img.shields.io/badge/hooks-%0a9732e3.svg?style=for-the-badge&logo=hooks&logoColor=%0a9732e3)
 ![Cors](https://img.shields.io/badge/cors-%23008080.svg?style=for-the-badge&logo=cors&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
