@@ -14,7 +14,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Next Router](https://img.shields.io/badge/Next_Router-purple?style=for-the-badge&logo=next-router&logoColor=white)
 ![Use Actions](https://img.shields.io/badge/use%20actions-%232671E5.svg?style=for-the-badge&logo=useactions&logoColor=white)
-![Seo-optimization](https://img.shields.io/badge/Seo-optimization%23217346.svg?style=for-the-badge&logo=Seo&logoColor=white)
+![Seo-optimization](https://img.shields.io/badge/Seo-optimization%23217346.svg?style=for-the-badge&logo=Seo-optimization&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <div align="center"><img src="https://github.com/juliaDooby/React-Spotify-platform/blob/main/Spotify_1.JPG" width="100%" height="20%"></img></div>
