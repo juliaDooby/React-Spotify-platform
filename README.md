@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Hooks](https://img.shields.io/badge/hooks-%0a9732e3.svg?style=for-the-badge&logo=hooks&logoColor=%0a9732e3)
-
+![Cors](https://img.shields.io/badge/cors-%23008080.svg?style=for-the-badge&logo=cors&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -17,7 +17,7 @@
 ![Use Actions](https://img.shields.io/badge/use%20actions-%232671E5.svg?style=for-the-badge&logo=useactions&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-Cors
+
 Typescript
 Rest-api
 Scss
